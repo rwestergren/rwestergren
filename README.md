@@ -1,16 +1,13 @@
-## Hi there 👋
+# Randy Westergren
 
-<!--
-**rwestergren/rwestergren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on AWS infrastructure, security, and cost optimization.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 [NAT Gateway Analyzer](https://natgatewayanalyzer.com) - Tool for optimizing AWS NAT Gateway costs using VPC Flow Log analysis
+- ✍️ Technical writing at [randywestergren.com](https://randywestergren.com)
+
+## Connect
+
+- Twitter: [@randywestergren](https://twitter.com/randywestergren)
+- LinkedIn: [in/randywestergren](https://linkedin.com/in/randywestergren)
